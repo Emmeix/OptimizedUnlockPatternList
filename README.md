@@ -12,7 +12,7 @@ A sorted and optimized list of smartphone lock pattern combinations based on [Ma
 
 * 44% of patterns start at 1
 * 73% of patterns start at 1, 3 or 7
-* Start location by rank: 1, 3, 7, 2, 4, 5, 9, 7, 6)
+* Start location by rank: 1, 3, 7, 2, 4, 5, 9, 7, 6.
 * 65% of patterns are length 4 or 5
 
 **Extra:**
